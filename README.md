@@ -3,7 +3,7 @@
 
 Welcome to the **Movie Website**, a beautifully crafted front-end project showcasing a curated collection of movies and TV shows. Designed with simplicity and aesthetics in mind, this website provides an engaging and minimalistic browsing experience for users who love cinema.
 
----
+<img src="https://github.com/beinganshulchauhan/movie-website/blob/0270b7e8554de31fb09eb6e9f43968d436b46d3b/beinganshulchauhan.github.io_movie-website_(High%20Res)%20(4).png">
 
 ## ✨ Features
 
